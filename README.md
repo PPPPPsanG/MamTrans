@@ -1,2 +1,2 @@
 # MamTrans
-Official coda release for State Space Models Meet Transformers for Hyperspectral Image Classification
+Official code release for State Space Models Meet Transformers for Hyperspectral Image Classification
