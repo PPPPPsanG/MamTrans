@@ -7,5 +7,7 @@ pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https
 torch>=2.0 is needed
 
 pip install causal_conv1d==1.1.1
+
 pip install -e mamba-1.2.0.post1
+
 pip install beartype matplotlib scikit-learn
