@@ -1,0 +1,12 @@
+python demo_MamTrans.py --dataset 'Indian' \
+                --flag_test 'train' \
+                --gpu_id 4 \
+                --seed 0 \
+                --batch_size 64 \
+                --test_freq 50 \
+                --patches 8 \
+                --band_patches 1\
+                --epoches 200\
+                --learning_rate 5e-4 \
+                --gamma 0.9 \
+                --weight_decay 1e-3
